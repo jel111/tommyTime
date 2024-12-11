@@ -1,4 +1,4 @@
 [build]
   base = "Development/tommy-time"
   command = "npm run build"
-  publish = "Development/tommy-time/.next"
+  publish = ".next"
